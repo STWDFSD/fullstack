@@ -57,5 +57,3 @@ Full-Stack Instgram Clone using MERN Stack and Socket.io
 - See Followers/Following of Users
 - Post Liked by Users
 - Emoji Enabled (Emoji Mart)
-
-<h2>📬 Contact</h2>
